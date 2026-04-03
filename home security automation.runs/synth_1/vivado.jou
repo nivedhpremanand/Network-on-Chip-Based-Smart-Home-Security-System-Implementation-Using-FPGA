@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Tue Oct 14 23:55:03 2025
+# Process ID         : 6976
+# Current directory  : D:/VIVADO/home security automation/home security automation.runs/synth_1
+# Command line       : vivado.exe -log home_security_system.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source home_security_system.tcl
+# Log file           : D:/VIVADO/home security automation/home security automation.runs/synth_1/home_security_system.vds
+# Journal file       : D:/VIVADO/home security automation/home security automation.runs/synth_1\vivado.jou
+# Running On         : LENOVOLOQ
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 7 7435HS                             
+# CPU Frequency      : 3094 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 25439 MB
+# Swap memory        : 1610 MB
+# Total Virtual      : 27049 MB
+# Available Virtual  : 12795 MB
+#-----------------------------------------------------------
+source home_security_system.tcl -notrace
